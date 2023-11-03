@@ -1,0 +1,31 @@
+{
+    "add_is_visible": true,
+    "autobinding_value": "boolean",
+    "category": "input forms",
+    "default_dim": {
+        "height": 82,
+        "width": 70
+    },
+    "display": "onoff toggle",
+    "events": {
+        "AAE": {
+            "caption": "changed",
+            "name": "changed"
+        }
+    },
+    "icon": "ion-arrow-swap",
+    "property_applications": {
+        "resizable": false
+    },
+    "states": {
+        "AAD": {
+            "caption": "value",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "value",
+            "value": "boolean"
+        }
+    },
+    "support_autobinding": true
+}

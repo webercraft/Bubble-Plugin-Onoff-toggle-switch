@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "demo_page": "https://onofftoggleswitch.bubbleapps.io/version-test",
+    "description": "Toggle switch that simulate on and off button\n\n\n",
+    "image": "//meta-q.cdn.bubble.io/f1698912888797x527489787428836030/onofftoggleswitchlogo.png",
+    "license": "open_source",
+    "name": "Onoff toggle switch",
+    "plugin_instructions": "Drag and Drop onoff toggle from UI elements\n\nExposed state is called \"value\"\n\nEvent triggered is called \"changed\"\n"
+}
